@@ -22,12 +22,12 @@ The system should be robust, as deleting an item from the marketing directory fa
 
 
 
-Task 2.3: Develop an easy function that eliminates the "ID - " portion of both columns, which you may utilize and repeat for both of these searches to remove the IDs.Dimensional Searches. Sales Representative & Sub Division require extra care. Several ID columns use a particular structure:
+2c: Develop an easy function that eliminates the "ID - " portion of both columns, which you may utilize and repeat for both of these searches to remove the IDs.Dimensional Searches. Sales Representative & Sub Division require extra care. Several ID columns use a particular structure:
                       ID-4,ID-5,ID-6
 
 Develop an easy function that eliminates the "ID - " portion of both columns, which you may utilize and utilize for both of these searches for removing the IDs.
 
-Task 2.4: Establish a Data Architecture that connects all fields and uses the Calendar column previously built up in my pbix.
+2d: Establish a Data Architecture that connects all fields and uses the Calendar column previously built up in my pbix.
 
 3. DAX 
 
